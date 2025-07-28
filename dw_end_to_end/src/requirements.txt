@@ -1,0 +1,5 @@
+pandas
+sqlalchemy # mexer com banco de dados
+python-dotenv #mexer com variaveis de amiente
+psycopg2-binary # driver para o postgress
+yfinance # lib com dados de cotacao (gratuita)
