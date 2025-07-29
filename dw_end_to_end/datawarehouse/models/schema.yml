@@ -1,8 +1,8 @@
-#aqui vamos falar todas fontes de dados que vamos utilizar
+#aqui vamos documentar todas fontes de dados que vamos utilizar
 version: 2
 
 sources:
-  - name: dbsalesaovivo
+  - name: databaseendtoend
     schema: public
     tables:
       - name: commodities

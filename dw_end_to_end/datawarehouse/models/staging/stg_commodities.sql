@@ -6,7 +6,7 @@ with source as (
         "Close",
         "simbolo"
     from 
-        {{ source ('dbsalesaovivo', 'commodities') }}
+        {{ source ('databaseendtoend', 'commodities') }}
 ),
 
 renamed as (
