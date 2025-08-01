@@ -1,4 +1,4 @@
-# estamos ao vivo!
+
 
 ```mermaid
 graph TD;
